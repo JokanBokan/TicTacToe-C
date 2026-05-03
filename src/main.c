@@ -53,8 +53,8 @@ int main() {
         wait(3);
     }
     else {
-        wait(3);
         printf("\nDraw!");
+        wait(3);
     }
     return 0; 
 
